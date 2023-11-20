@@ -1,2 +1,2 @@
 # test
-test gitbub
+test github
